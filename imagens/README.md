@@ -47,10 +47,10 @@ Se estiver *errado*, mostra uma mensagem vermelha explicando o formato correto.
 ## *Demonstração do Projeto*
 
 ### ✅ E-mail Válido  
-![Captura de Tela - E-mail Válido](./Captura%20de%20Tela%20(58).png)
+![Captura de Tela - E-mail Válido](./valida.png)
 
 ### ❌ E-mail Inválido  
-![Captura de Tela - E-mail Inválido](./Captura%20de%20Tela%20(60).png)
+![Captura de Tela - E-mail Inválido](./invalida.png)
 
 ---
 
